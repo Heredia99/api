@@ -1,0 +1,7 @@
+{
+    "cerrar_conversacion": false,
+    "bultos_correctos": true,
+    "bultos_permitidos": 3,
+    "mueble_no_permitido": "frigorífico"
+}
+
